@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand Palette according to GymBuddy II Guidelines -->
+    <color name="primary_orange">#FF8A00</color>
+    <color name="primary_orange_dark">#E57B00</color>
+    <color name="primary_orange_light">#FFB347</color>
+    <color name="primary_orange_container">#FFF0E0</color>
+    
+    <color name="text_primary_light">#263238</color>
+    <color name="text_secondary_light">#667085</color>
+    <color name="background_light">#F7F9FC</color>
+    <color name="surface_light">#FFFFFF</color>
+    <color name="surface_variant_light">#EDF2F7</color>
+    <color name="divider_light">#E2E8F0</color>
+
+    <!-- Dark Mode Colors -->
+    <color name="background_dark">#12161A</color>
+    <color name="surface_dark">#1C2329</color>
+    <color name="surface_variant_dark">#28313A</color>
+    <color name="text_primary_dark">#F1F5F9</color>
+    <color name="text_secondary_dark">#94A3B8</color>
+    <color name="divider_dark">#334155</color>
+    <color name="primary_orange_dark_mode">#FFA033</color>
+    <color name="primary_orange_container_dark">#3D2508</color>
+
+    <!-- Status Colors -->
+    <color name="status_success">#2EAD6B</color>
+    <color name="status_success_container">#E8F8F0</color>
+    <color name="status_error">#D64545</color>
+    <color name="status_error_container">#FDEDED</color>
+    <color name="status_warning">#F59E0B</color>
+    <color name="status_info">#3B82F6</color>
+    
+    <!-- Podium Colors -->
+    <color name="gold">#FFD700</color>
+    <color name="silver">#C0C0C0</color>
+    <color name="bronze">#CD7F32</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>

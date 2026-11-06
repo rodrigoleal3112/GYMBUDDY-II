@@ -1,0 +1,92 @@
+<resources>
+    <string name="app_name">GymBuddy II</string>
+    <string name="app_tagline">Seu treino. Seu ritmo. Seu desafio.</string>
+    <string name="mascot_name">Seu Madruga Maromba</string>
+    <string name="mascot_motivation_greeting">Bora treinar com o Seu Madruga?</string>
+    <string name="mascot_quote_workout_done">Treino Pago! Mais suor que 14 meses de aluguel!</string>
+    <string name="mascot_quote_keep_going">Não há treino ruim, o ruim é ter que faltar ao treino!</string>
+    <string name="mascot_quote_welcome">¡Rendirte? ¡Jamás! Bora erguer esses pesos, chapa!</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Início</string>
+    <string name="nav_activities">Atividades</string>
+    <string name="nav_ranking">Ranking</string>
+    <string name="nav_communities">Comunidades</string>
+    <string name="nav_profile">Perfil</string>
+
+    <!-- Authentication -->
+    <string name="login_title">Bem-vindo de volta!</string>
+    <string name="login_subtitle">Acesse sua conta para continuar sua jornada</string>
+    <string name="register_title">Crie sua Conta</string>
+    <string name="register_subtitle">Junte-se à comunidade GymBuddy II</string>
+    <string name="label_name">Nome Completo</string>
+    <string name="label_email">E-mail</string>
+    <string name="label_password">Senha</string>
+    <string name="label_confirm_password">Confirmar Senha</string>
+    <string name="btn_login">Entrar</string>
+    <string name="btn_register">Cadastrar</string>
+    <string name="btn_create_account">Não tem uma conta? Cadastre-se</string>
+    <string name="btn_has_account">Já tem uma conta? Faça login</string>
+
+    <!-- Validation & Error Messages -->
+    <string name="error_name_required">O nome é obrigatório.</string>
+    <string name="error_email_invalid">Informe um e-mail válido.</string>
+    <string name="error_password_min_length">A senha deve possuir pelo menos 6 caracteres.</string>
+    <string name="error_password_mismatch">As senhas não coincidem.</string>
+    <string name="error_invalid_credentials">E-mail ou senha incorretos. Tente novamente.</string>
+    <string name="error_connection_failed">Não foi possível conectar ao servidor.</string>
+    <string name="error_check_internet">Verifique sua conexão com a internet.</string>
+    <string name="error_location_unavailable">Não foi possível obter sua localização.</string>
+    <string name="error_location_permission_needed">Você precisa permitir o acesso à localização para realizar este check-in.</string>
+    <string name="error_checkin_failed">Não foi possível realizar o check-in.</string>
+    <string name="error_generic">Ocorreu um erro inesperado. Tente novamente.</string>
+
+    <!-- Check-in & Geolocation -->
+    <string name="checkin_title">Registrar Check-in</string>
+    <string name="checkin_btn">Fazer Check-in</string>
+    <string name="checkin_activity_selector_hint">Selecione a atividade física realizada</string>
+    <string name="checkin_location_title">Localização do Exercício</string>
+    <string name="checkin_location_explanation">O GymBuddy II registra sua posição geográfica apenas no momento do check-in para comprovar a prática de atividades em locais adequados (como academias, parques, praças ou quadras), sem rastreamento contínuo.</string>
+    <string name="checkin_detecting_location">Obtendo coordenadas do GPS...</string>
+    <string name="checkin_location_obtained">Localização capturada com sucesso!</string>
+    <string name="checkin_confirm_btn">Dar OK na Atividade (+XP)</string>
+    <string name="checkin_success_title">Check-in realizado!</string>
+    <string name="checkin_xp_earned">+%1$d XP Conquistados</string>
+
+    <!-- Categories -->
+    <string name="cat_all">Todos</string>
+    <string name="cat_cardio">CARDIO</string>
+    <string name="cat_braco">BRAÇO</string>
+    <string name="cat_perna">PERNA</string>
+    <string name="cat_costa">COSTA</string>
+    <string name="cat_outros">OUTROS</string>
+
+    <!-- Gamification -->
+    <string name="level_format">Nível %1$d</string>
+    <string name="xp_format">%1$d XP</string>
+    <string name="xp_progress_format">%1$d / %2$d XP para o Nível %3$d</string>
+    <string name="streak_days_format">%1$d dias seguidos</string>
+    <string name="badges_count_format">%1$d conquistadas</string>
+    <string name="badges_title">Conquistas &amp; Badges</string>
+
+    <!-- Communities & Invites -->
+    <string name="communities_title">Comunidades</string>
+    <string name="btn_create_community">Criar Comunidade</string>
+    <string name="invitations_title">Convites</string>
+    <string name="invitation_accept">Aceitar</string>
+    <string name="invitation_decline">Recusar</string>
+    <string name="invitation_cancel">Cancelar</string>
+    <string name="status_pending">Pendente</string>
+    <string name="status_accepted">Aceito</string>
+    <string name="status_declined">Recusado</string>
+    <string name="status_cancelled">Cancelado</string>
+
+    <!-- Settings / Theme -->
+    <string name="theme_light">Tema Claro</string>
+    <string name="theme_dark">Tema Escuro</string>
+    <string name="theme_system">Seguir Sistema</string>
+    <string name="settings_title">Configurações</string>
+    <string name="api_url_title">Endereço da API REST</string>
+    <string name="btn_save">Salvar</string>
+    <string name="btn_logout">Sair da Conta</string>
+</resources>
